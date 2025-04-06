@@ -1,0 +1,58 @@
+/* Estilo geral do site */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: #ff4d94;
+    color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.5em;
+}
+
+/* Estilo das seções */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #ff4d94;
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: #ff4d94;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 1.2em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
